@@ -1,4 +1,4 @@
-# Epson-V800-Worm-Counting-Tutorials
+# Epson V800 Worm Counting Tutorials
 
 *WormSizer:* https://pool-almanac-70e.notion.site/WormSizer-Tutorial-C-Elegans-Quantification-and-Measurement-with-Epson-V800-Scans-34191ecf02f241d5bc7c3e90a17b0c1a
 - Counts and measures length, volume, etc.
