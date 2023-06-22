@@ -14,7 +14,7 @@
 - *Investigating the Spreading and Toxicity of Prion-like Proteins Using the Metazoan Model Organism C. elegans* : http://dx.doi.org/10.3791/52321
 
 *Other helpful links*:
-- *C. Elegans Lifespan Machine*: https://scholar.harvard.edu/files/walterfontana/files/lm.pdf
+- *The C. Elegans lifespan machine*: https://scholar.harvard.edu/files/walterfontana/files/lm.pdf
 - *A simplified design for C. elegans lifespan machine* : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7666331/
 
 
