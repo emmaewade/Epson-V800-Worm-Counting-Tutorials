@@ -4,12 +4,17 @@
 - Counts and measures length, volume, etc.
 - Can be used on a single image
 
-  
-*Wrmtrck:* https://pool-almanac-70e.notion.site/Wrmtrck-Tutorial-C-Elegan-Swimming-Trashing-Body-Bends-Quantification-f39630287bcb43fba8b682c01ff892fd
+*wrMTrck:* https://pool-almanac-70e.notion.site/Wrmtrck-Tutorial-C-Elegan-Swimming-Trashing-Body-Bends-Quantification-f39630287bcb43fba8b682c01ff892fd
 - Counts and measures movement
 - Must have more than one image
 - Didn't 100% figure out measuring the paths, probably better with 1000s of images or video
 
 *Citations*:
-- *Investigating the Spreading and Toxicity of Prion-like Proteins Using the Metazoan Model Organism C. elegans* : http://dx.doi.org/10.3791/52321
 - *WormSizer: High-throughput Analysis of Nematode Size and Shape* : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3579787/
+- *Investigating the Spreading and Toxicity of Prion-like Proteins Using the Metazoan Model Organism C. elegans* : http://dx.doi.org/10.3791/52321
+
+*Other helpful links*:
+- *C. Elegans Lifespan Machine*: https://scholar.harvard.edu/files/walterfontana/files/lm.pdf
+- *A simplified design for C. elegans lifespan machine* : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7666331/
+
+
