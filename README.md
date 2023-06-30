@@ -9,6 +9,11 @@
 - Must have more than one image
 - Didn't 100% figure out measuring the paths, probably better with 1000s of images or video
 
+*Tierpsy Tracker:* https://pool-almanac-70e.notion.site/Tierpsy-Tracker-78140b7adfb440e5a281a5a2cf1f5e33?pvs=4
+- Requires video
+- Has a very involved GUI
+- Outputs movement statistics for single worm or whole plate
+
 *Citations*:
 - *WormSizer: High-throughput Analysis of Nematode Size and Shape* : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3579787/
 - *Investigating the Spreading and Toxicity of Prion-like Proteins Using the Metazoan Model Organism C. elegans* : http://dx.doi.org/10.3791/52321
