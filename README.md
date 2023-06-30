@@ -17,6 +17,8 @@
 *Citations*:
 - *WormSizer: High-throughput Analysis of Nematode Size and Shape* : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3579787/
 - *Investigating the Spreading and Toxicity of Prion-like Proteins Using the Metazoan Model Organism C. elegans* : http://dx.doi.org/10.3791/52321
+- *An open-source platform for analyzing and sharing worm-behavior data*: https://doi.org/10.1038/s41592-018-0112-1
+- *Powerful and interpretable behavioural features for quantitative phenotyping of Caenorhabditis elegans* http://doi.org/10.1098/rstb.2017.0375
 
 *Other helpful links*:
 - *The C. Elegans lifespan machine*: https://scholar.harvard.edu/files/walterfontana/files/lm.pdf
